@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>This is to test POLL SCM to make automatic build creation and deployment to tomcat</h1>
+    <h1>I am testing automatic build and deployment on to a tomcat container</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning DevOps </h1>
+   <h1> Thankyou, Happy Learning Jenkins </h1>
 
   
 </form>
