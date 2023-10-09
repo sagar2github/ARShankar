@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hello, I Am testing Jenkins integration with Ansible</h1>
+    <h1>Hello, I Am testing Jenkins integration with AnsiblePlaybook</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
